@@ -1,5 +1,5 @@
 <?php
-$host = "basedatos";
+$host = "bd";
 $user = "usuario";
 $password = "1234";
 $db = "santuario_web";
